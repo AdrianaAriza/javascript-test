@@ -1,3 +1,3 @@
 # javascript-test
 
-# Primera prueba configurando githubfgkdfjng
+# First commit - lab1 test
